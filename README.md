@@ -19,17 +19,17 @@ ________________________________________
     <img align="center" alt="HTML5" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
     <img align="center" alt="CSS3" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" />
     <img align="center" alt="JavaScript" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" />
+    <img align="center" alt="CSharp" width="150" height="150" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" />
+    <img align="center" alt="SQL" src="" />
   </div>
   <br />
   
   > 📚 Have knowledge:
   <div>
-    <img align="center" width="140" height="140" alt="React.Js" src="https://www.shareicon.net/download/2016/07/10/119874_apps_512x512.png" />
-    <img align="center" width="100" height="100" alt="Node.Js" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" />
+    <img align="center" alt="React.Js" width="140" height="140" src="https://www.shareicon.net/download/2016/07/10/119874_apps_512x512.png" />
+    <img align="center" alt="Node.Js" width="100" height="100" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" />
     <img align="center" alt="TypeScript" src="https://img.icons8.com/?size=100&id=wpZmKzk11AzJ&format=png&color=000000" />
     <img align="center" alt="Python" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" />
-    <img align="center" alt="" src="" />
-    <img align="center" alt="" src="" />
   </div>
 </div>
 
