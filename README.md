@@ -20,7 +20,7 @@ ________________________________________
     <img align="center" alt="CSS3" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" />
     <img align="center" alt="JavaScript" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" />
     <img align="center" alt="CSharp" width="150" height="150" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" />
-    <img align="center" alt="SQL" src="" />
+    <img align="center" alt="SQL" width="100" height="100" src="https://cdn-icons-png.flaticon.com/512/3161/3161158.png" />
   </div>
   <br />
   
