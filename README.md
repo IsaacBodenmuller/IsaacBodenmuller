@@ -4,8 +4,8 @@ ________________________________________
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-bodenmuller-406399231/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isaacbodenmuller)
-________________________________________
-#### What I like to do:
+<!-- ________________________________________
+#### What I like to do: -->
 
 
 ________________________________________
