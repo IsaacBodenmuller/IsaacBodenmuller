@@ -14,7 +14,7 @@ ________________________________________
 <div style="display: inline_block"><br />
   
   > 🧑🏼‍💼 Work with:
-  <div>
+  <div style="display: flex; flex-direction: row;">
     <img align="center" alt="GeneXus 18" width="100" height="100" src="https://avatars.githubusercontent.com/u/16494738?s=200&v=4" />
     <img align="center" alt="HTML5" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
     <img align="center" alt="CSS3" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" />
@@ -25,7 +25,7 @@ ________________________________________
   <br />
   
   > 📚 Have knowledge:
-  <div>
+   <div style="display: flex; flex-direction: row;">
     <img align="center" alt="React.Js" width="140" height="140" src="https://www.shareicon.net/download/2016/07/10/119874_apps_512x512.png" />
     <img align="center" alt="Node.Js" width="100" height="100" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" />
     <img align="center" alt="TypeScript" src="https://img.icons8.com/?size=100&id=wpZmKzk11AzJ&format=png&color=000000" />
